@@ -1,6 +1,6 @@
 {
   "name": "@umm/simple_animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Animation Component that leverages PlayableGraphs",
   "homepage": "https://github.com/umm-projects/simple_animation",
   "bugs": {
