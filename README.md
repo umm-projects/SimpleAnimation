@@ -11,7 +11,7 @@
 ## Install
 
 ```shell
-yarn add "umm-projects/simple_animation#^1.0.0"
+yarn add "umm/simple_animation#^1.0.0"
 ```
 
 ## Usage
