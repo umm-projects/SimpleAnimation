@@ -2,9 +2,9 @@
   "name": "@umm/simple_animation",
   "version": "1.0.2",
   "description": "A simple Animation Component that leverages PlayableGraphs",
-  "homepage": "https://github.com/umm-projects/simple_animation",
+  "homepage": "https://github.com/umm/simple_animation",
   "bugs": {
-    "url": "https://github.com/umm-projects/simple_animation/issues"
+    "url": "https://github.com/umm/simple_animation/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -18,13 +18,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/simple_animation"
+    "url": "git@github.com:umm/simple_animation"
   },
   "files": [
     "Assets"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
